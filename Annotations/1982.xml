@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation verified="no">
+	<folder>./JPEGImages</folder>
+	<filename>1982</filename>
+	<path>./JPEGImages\1982.jpg</path>
+	<checked>NO</checked>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<flag>rectangle</flag>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1212</xmin>
+			<ymin>19</ymin>
+			<xmax>1383</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>
